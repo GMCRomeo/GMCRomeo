@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GMCRomeo
-- 👀 I’m interested in Elvis, clean code and accessible code
+- 👀 I’m interested in Elvis, Cats, and accessible code
 - 🌱 I’m currently learning front end and API development
 - 💞️ I’m looking to collaborate on fun projects!
 - 📫 How to reach me: https://www.linkedin.com/in/gabriella-romeo/
